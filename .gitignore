@@ -2,6 +2,13 @@
 env/
 venv/
 
+# Ignore node_modules folder
+node_modules/
+
+# Ignore package lock json files
+package-lock.json
+package.json
+
 # Pytohtn cache files
 *.pyc
 *.pyo
@@ -23,5 +30,8 @@ Thumbs.db
 
 # Ignore environment files
 .env
+
+# Ignore the mp4 files
+*.mp4
 
 
