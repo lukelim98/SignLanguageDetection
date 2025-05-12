@@ -34,4 +34,5 @@ Thumbs.db
 # Ignore the mp4 files
 *.mp4
 
-
+# Ignore all jpeg files
+*.jpg
